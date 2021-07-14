@@ -1,0 +1,42 @@
+#body{
+    background: rgb(61,14,64);
+background: linear-gradient(315deg, rgba(61,14,64,1) 0%, rgba(190,52,159,0.9640231092436975) 48%, rgba(96,32,101,1) 100%);
+margin-left: 5px;
+margin-right: 5px;
+padding: 4px;
+}
+#makeups{
+    background-color: rgb(199, 121, 230);
+    background-image: url(../img/makeup.png);
+}
+#colabs{
+    background-color: rgb(113, 151, 196);
+    background-image: url(../img/makeup2.png);
+}
+#recreaciones{
+    background-color: rgb(187, 241, 223);
+    background-image: url(../img/makeup\ \(2\).png);
+}
+#edits{
+    background-color: rgb(171, 211, 243);
+    background-image: url(../img/multimedia.png);
+}
+#card{
+    background-color:rgb(199, 121, 230);
+}
+#navbar{
+    background-color:rgb(248, 163, 208);
+}
+#header{
+    background-image: url(../img/sagitario.png);
+    background-color: rgb(241, 157, 171);
+}
+#card2{
+    background-color: rgb(199, 121, 230);
+}
+hr{
+    height: 4.5px;
+}
+#jumbotron2{
+    background-color:rgb(241, 157, 171) ;
+}
